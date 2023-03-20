@@ -1,8 +1,13 @@
-# NYC-Taxi-Data
+## NYC-Taxi-Data
 
-Supervised ML- Regression model using NYC-Taxi-Data Demand Prediction Data Set
+Supervised ML- Regression model using NYC-Taxi-Data Demand Prediction Data Set.
 
-Business Context for building a model to predict the total ride duration of taxi trips in New York City:
+
+
+
+
+
+## Business  Context for building a model to predict the total ride duration of taxi trips in New York City:
 
 Transportation companies: Transportation companies can use the model to optimize their operations, such as improving the accuracy of estimated arrival times and managing driver schedules more efficiently.
 
