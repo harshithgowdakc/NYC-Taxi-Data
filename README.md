@@ -1,33 +1,15 @@
-# NYC-Taxi-Data-
+# NYC-Taxi-Data
 
-NYC - Taxi - Data
+Supervised ML- Regression model using NYC-Taxi-Data Demand Prediction Data Set
 
-Exploratory Data Analysis (EDA) is an approach to analyse data. The first and foremost task that the data analysts does is to view the data and tries to make some sense out of it. Later we figure out what questions we want to ask and how to use the available data to get the answers we need.
+Business Context for building a model to predict the total ride duration of taxi trips in New York City:
 
-EDA helps us to:
+Transportation companies: Transportation companies can use the model to optimize their operations, such as improving the accuracy of estimated arrival times and managing driver schedules more efficiently.
 
-Delve into the data set
+Ride-sharing platforms: Ride-sharing platforms can leverage the model to improve the user experience by providing more accurate ride duration estimates and increasing the reliability of their service.
 
-Examine the relationships among the variables
+City planning and infrastructure: City planners can use the insights gained from the model to optimize transportation infrastructure and plan for future development, such as improving traffic flow and reducing congestion.
 
-Identify any interesting observation
+Insurance companies: Insurance companies can use the model to assess risk and set premiums based on predicted ride durations for individual drivers or fleet vehicles.
 
-Develop an initial idea of possible associations among the predictors and the target variable.
-
-The telecom market in the US is saturated and customer growth rates are low. They key focus of market players therefore is on retention and churn control. This project explores the churn dataset to identify the key drivers of churn and grab key insights from the dataset.
-
-The insights we have gained into the churn data set through the use of exploratory data analysis:
-
-The four charge fields are linear functions of the minute fields.
-
-The area code field and/or the state field are anomalous, and can be omitted.
-
-The correlations among the remaining predictor variables are weak, allowing us to retain them all for any data mining model.
-
-Customers with the International Plan tend to churn more frequently.
-
-Customers with four or more customer service calls churn more than four times as often as do the other customers.
-
-Customers with high day minutes and evening minutes tend to churn at a higher rate than do the other customers.
-
-There is no obvious association of churn with the variables day calls, evening calls, night calls, international calls, night minutes, international minutes, account length, or voice mail messages
+Overall, building a model to predict taxi ride duration has many potential applications in the transportation industry, and can help businesses and policymakers make data-driven decisions to improve efficiency, safety, and overall customer satisfaction.
