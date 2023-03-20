@@ -1,6 +1,7 @@
-## NYC-Taxi-Data
+# NYC-Taxi-Data
 
-Supervised ML- Regression model using NYC-Taxi-Data Demand Prediction Data Set.
+## Supervised ML- 
+Regression model using NYC-Taxi-Data Demand Prediction Data Set.
 
 
 
